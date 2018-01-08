@@ -1,0 +1,87 @@
+{
+  "image_id": "O2alrpeRIXFejHWe6WlRqw==",
+  "request_id": "1515121814,a249e95f-1158-46bd-a06f-8645ebf5cfe2",
+  "time_used": 1148,
+  "faces": [
+    {
+      "landmark": {
+
+      },
+      "attributes": {
+        "emotion": {
+          "sadness": 0,
+          "neutral": 99.852,
+          "disgust": 0,
+          "anger": 0.001,
+          "surprise": 0.144,
+          "fear": 0,
+          "happiness": 0.002
+        },
+        "gender": {
+          "value": "Female"
+        },
+        "age": {
+          "value": 34
+        },
+        "eyestatus": {
+          "left_eye_status": {
+            "normal_glass_eye_open": 0.002,
+            "no_glass_eye_close": 0,
+            "occlusion": 0.168,
+            "no_glass_eye_open": 99.83,
+            "normal_glass_eye_close": 0,
+            "dark_glasses": 0
+          },
+          "right_eye_status": {
+            "normal_glass_eye_open": 0.245,
+            "no_glass_eye_close": 0,
+            "occlusion": 0,
+            "no_glass_eye_open": 99.754,
+            "normal_glass_eye_close": 0,
+            "dark_glasses": 0
+          }
+        },
+        "glass": {
+          "value": "None"
+        },
+        "headpose": {
+          "yaw_angle": 45.32558,
+          "pitch_angle": -5.7740755,
+          "roll_angle": 5.490004
+        },
+        "blur": {
+          "blurness": {
+            "threshold": 50,
+            "value": 0.086
+          },
+          "motionblur": {
+            "threshold": 50,
+            "value": 0.086
+          },
+          "gaussianblur": {
+            "threshold": 50,
+            "value": 0.086
+          }
+        },
+        "smile": {
+          "threshold": 30.1,
+          "value": 6.339
+        },
+        "facequality": {
+          "threshold": 70.1,
+          "value": 0.006
+        },
+        "ethnicity": {
+          "value": "White"
+        }
+      },
+      "face_rectangle": {
+        "width": 161,
+        "top": 381,
+        "left": 505,
+        "height": 161
+      },
+      "face_token": "658cd32a47fa24c84f3f68e7ac0332c9"
+    }
+  ]
+}
